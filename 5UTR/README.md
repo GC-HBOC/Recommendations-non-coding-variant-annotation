@@ -34,4 +34,10 @@ Entsprechend konnten in einer Analyse der AG Bioinformatik von 462 Genomen von I
 
 
 ### Referenzen
+[Chaldebas M, Ponsin K, Bohlen J, Conil C, Mourelatos H, Stenson PD, Cooper DN, Abel L, Casanova JL, Cobat A, Zhang P. Genome-wide detection of human 5' UTR variants that impact protein translation. Am J Hum Genet. 2026 Apr 2;113(4):809-827.](https://doi.org/10.1016/j.ajhg.2026.02.020) (Paper zu 5ULTRA)
+
+[Wieder N, D'Souza EN, Dawes R, Chan A, Martin-Geary A, Whiffin N. The role of untranslated region variants in Mendelian disease: a review. Eur J Hum Genet. 2025 Sep;33(9):1096-1105.](https://doi.org/10.1038/s41431-025-01905-x) (Review zu Pathomechanismen von Varianten in den 5'- und den 3'-UTRs)
+
+[Zhang X, Wakeling M, Ware J, Whiffin N. Annotating high-impact 5'untranslated region variants with the UTRannotator. Bioinformatics. 2021 May 23;37(8):1171-1173.](https://doi.org/10.1093/bioinformatics/btaa783) (Paper zu UTRannotator)
+
 
