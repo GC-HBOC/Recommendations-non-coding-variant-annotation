@@ -15,4 +15,6 @@ Das Polyadenylierungssignal als Bindestelle des Proteins CPSF mit Konsensus-Sequ
 Entsprechend konnten in einer Analyse der AG Bioinformatik von 462 Genomen von Individuen, die die Einschlusskriterien des DK-FBREK für die genetische Testung erfüllen, keine Varianten innerhalb der Polyadenylierungssignale 
 und -stellen der 3'UTRs der MANE-Transkripte der etablierten Brust- & Eierstockkrebsgene identifiziert werden.
 
+# Induktion von miRNA-Bindestellen
 
+MicroRNAs (miRNAs) sind ~20bp lange RNA-Moleküle. Ihre Bindung an spezifische, komplementäre Motive (miRNA-Bindestellen) in der 3'UTR von mRNAs führt zur Verhinderung der Translation, und somit zu reduzierter Protein-Expression. Die Möglichkeit der Induktion einer miRNA-Bindestelle sollte daher für seltene genetische Varianten in der 3'UTR in Betracht gezogen werden.  
