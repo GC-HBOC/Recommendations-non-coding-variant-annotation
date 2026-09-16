@@ -10,7 +10,7 @@ Im Kontext von erblichem Brust- & Eierstockkrebs ist die Identifizierung von 5'U
 Die Datenbank [VuTR](https://vutr.rarediseasegenomics.org/) visualisiert den Aufbau der 5'UTR in MANE-Transkripten, weiterhin werden die Effekte von Varianten, die in ClinVar und gnomAD v3 gelistet sind, dargestellt. 
 
 
-Die [hier](https://github.com/GC-HBOC/Recommendations-non-coding-variant-annotation/blob/main/5UTR/5UTR_HBOC.bed) hinterlegte BED-Datei kann zur Filterung nach Varianten, die in den 5'UTRs der MANE-Transkripte der etablierten Brust- & Eierstockkrebsgene lokalisiert sind, genutzt werden. 
+Die [hier](https://github.com/GC-HBOC/Recommendations-non-coding-variant-annotation/blob/main/5UTR/5UTR_HBOC.bed) hinterlegte BED-Datei kann zur Filterung nach Varianten, die in den 5'UTRs der MANE-Transkripte der etablierten Brust- & Eierstockkrebsgene lokalisiert sind, genutzt werden. Die Spezifikation der 5'UTRs folgt der Annotation von [GENCODE](https://www.gencodegenes.org/human/) (Basic Gene Annotation). 
 
 Zur Annotation von 5'UTR-Varianten hinsichtlich ihrer potentiellen Effekte auf offene Leserahmen steht das Tool [UTRannotator](https://github.com/ImperialCardioGenetics/UTRannotator) als Plugin in VEP genutzt werden. Darüber hinaus stellt Ensembl ein [Webinterface](https://jun2026.archive.ensembl.org/Homo_sapiens/Tools/VEP) zur Verfügung. Um UTRannotator im Webinterface einzubinden, muss zunächst die Registerkarte *Additional Annotations* geöffnet werden:
 
